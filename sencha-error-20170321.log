@@ -1,0 +1,226 @@
+Sencha Cmd 6.2.1.29 - Crash report
+================================================
+An error occurred while executing the following command: -h
+
+Diagnostic information:
+=======================
+                         app.archivePath : archive/${build.id}                               
+                      app.bootstrap.base : C:\Users\fcuenca\Desktop\PostApp                  
+                       app.bootstrap.css : bootstrap.css                                     
+                  app.bootstrap.manifest : ${build.id}.json                                  
+               app.bootstrap.microloader : bootstrap.js                                      
+   app.builds.classic.sass.generated.src : classic/sass/save                                 
+   app.builds.classic.sass.generated.var : classic/sass/save.scss                            
+                app.builds.classic.theme : theme-triton                                      
+              app.builds.classic.toolkit : classic                                           
+    app.builds.modern.sass.generated.src : modern/sass/save                                  
+    app.builds.modern.sass.generated.var : modern/sass/save.scss                             
+                 app.builds.modern.theme : theme-triton                                      
+               app.builds.modern.toolkit : modern                                            
+                        app.cache.deltas : ${build.id}/deltas                                
+                        app.cache.enable : false                                             
+                   app.classic.js.0.path : C:\Users\fcuenca\Desktop\PostApp\ext/build/ext-all-rtl-debug.js
+                   app.classic.js.length : 1                                                 
+                           app.classpath : app,${toolkit.name}/src                           
+                         app.classpath.0 : app                                               
+                         app.classpath.1 : ${toolkit.name}/src                               
+                    app.classpath.length : 2                                                 
+                         app.cmd.version : 6.2.1.29                                          
+                          app.config.dir : C:\Users\fcuenca\Desktop\PostApp\.sencha\app      
+                app.cordova.cache.enable : false                                             
+                   app.cordova.config.id : com.domain.PostApp                                
+                 app.cordova.config.name : PostApp                                           
+                 app.cordova.config.path : C:\Users\fcuenca\Desktop\PostApp/cordova          
+               app.cordova.config.target :                                                   
+              app.cordova.config.verbose : false                                             
+                   app.cordova.js.0.path : cordova.js                                        
+               app.cordova.js.0.priority : 1000                                              
+                 app.cordova.js.0.remote : true                                              
+                   app.cordova.js.length : 1                                                 
+                 app.cordova.microloader : C:\Users\fcuenca\Desktop\PostApp\.sencha\app/Microloader.js
+      app.cordova.output.appCache.enable : false                                             
+                 app.cordova.output.base : C:\Users\fcuenca\Desktop\PostApp/cordova/www      
+             app.cordova.output.manifest : ${build.id}.json                                  
+                 app.cordova.output.page : index.html                                        
+             app.development.watch.delay : 250                                               
+                                 app.dir : C:\Users\fcuenca\Desktop\PostApp                  
+              app.fashion.inliner.enable : false                                             
+                           app.framework : ext                                               
+                   app.framework.version : 6.2.1.167                                         
+                                  app.id : c8da92ef-bcd9-47d9-b2ae-d0d54865c9ff              
+                       app.indexHtmlPath : index.html                                        
+                        app.loader.cache : false                                             
+                   app.loader.cacheParam : _dc                                               
+                    app.modern.js.0.path : C:\Users\fcuenca\Desktop\PostApp\ext/build/ext-modern-all-debug.js
+                    app.modern.js.length : 1                                                 
+                                app.name : PostApp                                           
+              app.output.appCache.enable : false                                             
+                         app.output.base : C:\Users\fcuenca\Desktop\PostApp/build/${build.environment}/PostApp
+                           app.output.js : ${build.id}/app.js                                
+                     app.output.manifest : ${build.id}.json                                  
+           app.output.microloader.enable : true                                              
+                         app.output.page : index.html                                        
+               app.output.resources.path : ${build.id}/resources                             
+             app.output.resources.shared : resources                                         
+                           app.overrides : overrides,${toolkit.name}/overrides               
+                         app.overrides.0 : overrides                                         
+                         app.overrides.1 : ${toolkit.name}/overrides                         
+                    app.overrides.length : 2                                                 
+               app.phonegap.cache.enable : false                                             
+                  app.phonegap.config.id : com.domain.PostApp                                
+                app.phonegap.config.name : PostApp                                           
+                app.phonegap.config.path : C:\Users\fcuenca\Desktop\PostApp/phonegap         
+              app.phonegap.config.remote : false                                             
+             app.phonegap.config.verbose : false                                             
+                  app.phonegap.js.0.path : cordova.js                                        
+              app.phonegap.js.0.priority : 1000                                              
+                app.phonegap.js.0.remote : true                                              
+                  app.phonegap.js.length : 1                                                 
+                app.phonegap.microloader : C:\Users\fcuenca\Desktop\PostApp\.sencha\app/Microloader.js
+     app.phonegap.output.appCache.enable : false                                             
+                app.phonegap.output.base : C:\Users\fcuenca\Desktop\PostApp/phonegap/www     
+            app.phonegap.output.manifest : ${build.id}.json                                  
+                app.phonegap.output.page : index.html                                        
+             app.production.cache.enable : true                                              
+          app.production.compressor.type : yui                                               
+             app.production.loader.cache : ${build.timestamp}                                
+   app.production.output.appCache.enable : true                                              
+     app.production.output.appCache.path : cache.appcache                                    
+                      app.resource.paths :                                                   
+                        app.sass.dynamic : true                                              
+                            app.sass.etc : sass/etc/all.scss,${toolkit.name}/sass/etc/all.scss
+                          app.sass.etc.0 : sass/etc/all.scss                                 
+                          app.sass.etc.1 : ${toolkit.name}/sass/etc/all.scss                 
+                     app.sass.etc.length : 2                                                 
+                      app.sass.namespace : PostApp                                           
+                            app.sass.src : sass/src,${toolkit.name}/sass/src                 
+                          app.sass.src.0 : sass/src                                          
+                          app.sass.src.1 : ${toolkit.name}/sass/src                          
+                     app.sass.src.length : 2                                                 
+                            app.sass.var : sass/var/all.scss,sass/var,${toolkit.name}/sass/var
+                          app.sass.var.0 : sass/var/all.scss                                 
+                          app.sass.var.1 : sass/var                                          
+                          app.sass.var.2 : ${toolkit.name}/sass/var                          
+                     app.sass.var.length : 3                                                 
+                 app.slicer.cache.enable : false                                             
+        app.slicer.js.0.isWidgetManifest : true                                              
+                    app.slicer.js.0.path : C:\Users\fcuenca\Desktop\PostApp/sass/example/custom.js
+                    app.slicer.js.length : 1                                                 
+       app.slicer.output.appCache.enable : false                                             
+                             app.version : 1.0.0.0                                           
+                    buildenvironment.dir : C:\Users\fcuenca\Desktop\PostApp                  
+               buildenvironment.load.dir : C:\Users\fcuenca\Desktop\PostApp                  
+                          cmd.config.dir : C:\Users\fcuenca\bin\Sencha\Cmd\6.2.1.29          
+                                 cmd.dir : C:\Users\fcuenca\bin\Sencha\Cmd\6.2.1.29          
+                    cmd.framework.minver : 5.5.0                                             
+                   cmd.framework.version : 99.99                                             
+                            cmd.jvm.args : -Xms128m -Xmx1024m -Dapple.awt.UIElement=true     
+              cmd.merge.tool.args.araxis : -wait -merge -3 -a1 {base} {user} {generated} {out}
+              cmd.merge.tool.args.kdiff3 : {base} {user} {generated} -o {out}                
+             cmd.merge.tool.args.p4merge : {base} {user} {generated} {out}                   
+           cmd.merge.tool.args.smartsync : {user} {generated} {base}                         
+          cmd.merge.tool.args.sourcegear : --merge --result={out} {user} {base} {generated}  
+            cmd.merge.tool.args.tortoise : -base:{base} -theirs:{generated} -mine:{user} -merged:{out}
+                              cmd.minver : 3.0.0.0                                           
+                            cmd.platform : windows                                           
+                     cmd.unicode.escapes : C:\Users\fcuenca\bin\Sencha\Cmd\6.2.1.29/unicode-escapes.json
+                             cmd.version : 6.2.1.29                                          
+                            cmd.web.port : 1841                                              
+                     config.skipDownload : true                                              
+                      config.skipInherit : false                                             
+                        ext.license.name : commercial                                        
+                     framework.build.dir : ${package.output.base}                            
+                     framework.classpath : ${package.dir}/src                                
+                    framework.cmd.minver : 6.2.1.29                                          
+                   framework.cmd.version : 6.2.1.29                                          
+                 framework.compatVersion : 6.2.0                                             
+                    framework.config.dir : C:\Users\fcuenca\bin\Sencha\Cmd\6.2.1.29\plugins\ext\current
+                       framework.creator : Sencha                                            
+           framework.detailedDescription : Sencha Ext JS JavaScript Framework                
+                           framework.dir : C:\Users\fcuenca\Desktop\PostApp\ext              
+                  framework.example.apps : admin-dashboard,executive-dashboard,feed-viewer,kitchensink,calendar,classic/desktop,classic/ticket-app,classic/portal,classic/simple-tasks,classic/responsive-app,classic/aria,modern/addressbook,modern/blackberry,modern/energy,modern/stockapp,modern/states,modern/geocongress,modern/oreilly
+                framework.example.apps.0 : admin-dashboard                                   
+                framework.example.apps.1 : executive-dashboard                               
+               framework.example.apps.10 : classic/aria                                      
+               framework.example.apps.11 : modern/addressbook                                
+               framework.example.apps.12 : modern/blackberry                                 
+               framework.example.apps.13 : modern/energy                                     
+               framework.example.apps.14 : modern/stockapp                                   
+               framework.example.apps.15 : modern/states                                     
+               framework.example.apps.16 : modern/geocongress                                
+               framework.example.apps.17 : modern/oreilly                                    
+                framework.example.apps.2 : feed-viewer                                       
+                framework.example.apps.3 : kitchensink                                       
+                framework.example.apps.4 : calendar                                          
+                framework.example.apps.5 : classic/desktop                                   
+                framework.example.apps.6 : classic/ticket-app                                
+                framework.example.apps.7 : classic/portal                                    
+                framework.example.apps.8 : classic/simple-tasks                              
+                framework.example.apps.9 : classic/responsive-app                            
+           framework.example.apps.length : 18                                                
+                  framework.example.path : examples,templates                                
+                framework.example.path.0 : examples                                          
+                framework.example.path.1 : templates                                         
+           framework.example.path.length : 2                                                 
+                        framework.format : 1                                                 
+                          framework.isV5 : true                                              
+                          framework.isV6 : true                                              
+                          framework.name : ext                                               
+                     framework.namespace : Ext                                               
+                        framework.output : ${package.dir}/build                              
+                     framework.overrides : ${package.dir}/overrides                          
+                  framework.packages.dir : C:\Users\fcuenca\Desktop\PostApp\ext/packages/,C:\Users\fcuenca\Desktop\PostApp\ext/${toolkit.name}
+                framework.resource.paths : resources                                         
+              framework.resource.paths.0 : resources                                         
+         framework.resource.paths.length : 1                                                 
+                      framework.sass.etc : ${package.dir}/sass/etc/all.scss                  
+                  framework.sass.fashion : true                                              
+                framework.sass.namespace : Ext                                               
+                      framework.sass.src : ${package.dir}/sass/src                           
+                      framework.sass.var : ${package.dir}/sass/var                           
+                       framework.subpkgs : classic/classic,modern/modern,packages/charts,packages/amf,packages/soap,packages/ux,packages/google,packages/legacy,packages/font-awesome,packages/font-pictos,packages/font-ext
+                     framework.subpkgs.0 : classic/classic                                   
+                     framework.subpkgs.1 : modern/modern                                     
+                    framework.subpkgs.10 : packages/font-ext                                 
+                     framework.subpkgs.2 : packages/charts                                   
+                     framework.subpkgs.3 : packages/amf                                      
+                     framework.subpkgs.4 : packages/soap                                     
+                     framework.subpkgs.5 : packages/ux                                       
+                     framework.subpkgs.6 : packages/google                                   
+                     framework.subpkgs.7 : packages/legacy                                   
+                     framework.subpkgs.8 : packages/font-awesome                             
+                     framework.subpkgs.9 : packages/font-pictos                              
+                framework.subpkgs.length : 11                                                
+                       framework.summary : Ext JS                                            
+                          framework.type : framework                                         
+                       framework.version : 6.2.1.167                                         
+                       inspector.address : http://localhost:1839/                            
+                    package.sass.dynamic : true                                              
+                          repo.local.dir : C:\Users\fcuenca\bin\Sencha\Cmd\repo              
+        system.java.net.useSystemProxies : true                                              
+                     workspace.build.dir : C:\Users\fcuenca\Desktop\PostApp/build            
+                   workspace.cmd.version : 6.2.1.29                                          
+                    workspace.config.dir : C:\Users\fcuenca\Desktop\PostApp\.sencha\workspace
+                           workspace.dir : C:\Users\fcuenca\Desktop\PostApp                  
+           workspace.frameworks.ext.path : C:\Users\fcuenca\Desktop\PostApp\ext              
+        workspace.frameworks.ext.version : 6.2.1.167                                         
+                  workspace.packages.dir : C:\Users\fcuenca\Desktop\PostApp/packages/local,C:\Users\fcuenca\Desktop\PostApp/packages
+              workspace.packages.extract : C:\Users\fcuenca\Desktop\PostApp/packages/remote  
+                     workspace.theme.dir : C:\Users\fcuenca\Desktop\PostApp/packages/local,C:\Users\fcuenca\Desktop\PostApp/packages/${args.themeName}
+
+Exception information:
+=======================
+No such property : h
+     at com.sencha.cli.AbstractCommand$Properties.getProperty(AbstractCommand.java:444)
+     at com.sencha.cli.AbstractCommand.parseConfigParam(AbstractCommand.java:468)
+     at com.sencha.cli.AbstractCommand.processConfigParam(AbstractCommand.java:518)
+     at com.sencha.cli.AbstractCommand.configure(AbstractCommand.java:114)
+     at com.sencha.command.Sencha.main(Sencha.java:135)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+     at java.lang.reflect.Method.invoke(Unknown Source)
+     at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:65)
+     at com.exe4j.runtime.WinLauncher.main(WinLauncher.java:101)
+     at com.install4j.runtime.launcher.WinLauncher.main(WinLauncher.java:26)
+
